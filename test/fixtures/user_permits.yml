@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: one
+  permit_id: one
+  application_date: 2020-12-09
+  is_permit: false
+
+two:
+  user_id: two
+  permit_id: two
+  application_date: 2020-12-09
+  is_permit: false
